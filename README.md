@@ -1,4 +1,4 @@
-# bubblesort
+#*bubblesort
 
 ## Run Guide
 
@@ -19,3 +19,4 @@ leo execute bubble_sort
 This example shows how to sort an array.
 
 It takes the input data from inputs/bubblesort.in
+ 
